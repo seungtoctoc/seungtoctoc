@@ -4,8 +4,9 @@
 
   <br>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
-  
+  <div>
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
+  </div>
   
   <br>
   Strong
@@ -20,8 +21,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
   <br>Study<br>
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com/eungyeole/velog-readme-stats)
+
+  <div>
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com/eungyeole/velog-readme-stats)
+  </div>
+
   
   <br>
   :e-mail: contact : dltmxor31@naver.com<br>
