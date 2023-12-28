@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Strong
-<img src="https://img.shields.io/badge/cplusplus-00599C?
-          style=flat&logo=Cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
 
 Knowledgeable
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
