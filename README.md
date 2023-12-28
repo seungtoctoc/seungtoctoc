@@ -24,6 +24,6 @@
 
 
   <br><br>
-  :e-mail: contact : dltmxor31@naver.com<br>
+  📧 contact : dltmxor31@naver.com<br>
 
 </div>
