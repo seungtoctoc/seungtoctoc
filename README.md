@@ -23,13 +23,6 @@
 
 
   <br><br>
-  Writing
-  <br>
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@seungtoctoc))
-
-
-  <br><br>
   :e-mail: contact : dltmxor31@naver.com<br>
 
 </div>
