@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
@@ -14,11 +14,10 @@ Knowledgeable<br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-
-
-
+<br><br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com/eungyeole/velog-readme-stats)
 
-
 :e-mail: contact : dltmxor31@naver.com
+
+</div>
