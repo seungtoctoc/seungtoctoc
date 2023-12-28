@@ -1,14 +1,15 @@
 <div align="center">
 
-  ## Hi there 👋
+  <h2>Hi there 👋</h2>
 
   <br>
 
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
   
   
-  <br>Strong<br>
+  <br>
+  Strong
+  <br>
   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   
@@ -22,6 +23,7 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com/eungyeole/velog-readme-stats)
   
-  <br>:e-mail: contact : dltmxor31@naver.com<br>
+  <br>
+  :e-mail: contact : dltmxor31@naver.com<br>
 
 </div>
