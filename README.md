@@ -14,12 +14,12 @@
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=seungtoctoc" alt="Velog's GitHub stats">
   </a>
 
-  <br><br>
+  <br>
   
   <a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/>
   </a>
 
-  <br><br><br>
+  <br><br>
   📧 contact : dltmxor31@naver.com
 </div>
