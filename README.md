@@ -3,7 +3,6 @@
   <h2>Hi there 👋</h2>
     
   <br>
-  <br>
   Strong
   <br>
   
