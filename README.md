@@ -2,14 +2,14 @@
 
   <h2>Hi there 👋</h2>
 
-  <br>Strong<br>
+  <br><b>Strong</b><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
-  <br>Knowledgeable<br>
+  <br><b>Knowledgeable</b><br>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-  <br>Writing<br>
+  <br><b>Writing</b><br>
   <a href="https://velog.io/@seungtoctoc">
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=seungtoctoc" alt="Velog's GitHub stats">
   </a>
@@ -21,5 +21,5 @@
   </a>
 
   <br><br>
-  📧 contact : dltmxor31@naver.com
+  📧 <b>contact</b> : dltmxor31@naver.com
 </div>
