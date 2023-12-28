@@ -3,6 +3,7 @@
   <h2>Hi there 👋</h2>
     
   <br>
+  
   Strong
   <br>
   
@@ -10,6 +11,7 @@
   
   <br>
   <br>
+  
   Knowledgeable
   <br>
   
@@ -18,12 +20,14 @@
 
   <br>
   <br>
+  
   <a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/>
   </a>
   
   <br>
   <br>
+  
   📧 contact : dltmxor31@naver.com
   <br>
 </div>
