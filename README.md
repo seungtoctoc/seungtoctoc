@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
-  <br>Study<br>
+  <br>Writing<br>
 
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com/eungyeole/velog-readme-stats)
