@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 
-  <br><b>Making Strong</b><br>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <br><b>Making Strong..</b><br>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
   
   <br><b>Knowledgeable</b><br>
