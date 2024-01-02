@@ -1,7 +1,17 @@
 <div align="center">
 
   <h2>👋 Hello there 👋</h2>
+  
+  <br>모든 순간 즐기며, 성장하는 2024년<br>
+  겸손하고 '친절'한 사람 되기<br>
 
+  <br>몇 달 전에 읽으려고 산 책들<br>
+  빠른 시일 내에 다 읽고 독서를 즐기는 습관을 가질 것<br>
+  교육 과정도 열심히 잘 따라가서 인턴이 될 것<br>
+
+  <br>결론적으로 친절하고 실력 있는,  협업하고 싶은 개발자가 될 것<br>
+
+  <b> full stack engineer </b>
 
   <br><b>Making Strong..</b><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
