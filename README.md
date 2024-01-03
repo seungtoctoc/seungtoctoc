@@ -42,7 +42,16 @@
   <img src="https://img.shields.io/badge/Autoencoder-000000?style=flat-square&logo=&logoColor=white"/>
 
 
+  <br><b>Certificate</b><br>
+  정보처리기사 / 23.11
 
-  <br><br>
+
+  <br><b>Award</b><br>
+  교내 지식재산 융합 경진대회 대상 / 23.06
+
+
+  <br><br><br><br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1">
+
+
   📧 <b>contact</b> : dltmxor31@naver.com
 </div>
