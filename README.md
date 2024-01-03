@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Java"/>
 
 
-  <br><h3>Writing</h3>
-  <a href="https://velog.io/@seungtoctoc">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"/></a>
-
-
   <br><h3>Projects</h3>
   <b><a href="https://github.com/seungtoctoc/HandMotionPassword">손동작과 얼굴인식을 활용한 문서 보안</b></a>
   <br>23.03 ~ 23.06 / 4명
@@ -47,8 +42,13 @@
   <br><h3>Contact</h3>
   dltmxor31@naver.com
 
-  <br><br><br><a href="https://solved.ac/dltmxor31">
+
+  <br><br><a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
+
+
+  <a href="https://velog.io/@seungtoctoc">
+  <img src="https://velog-readme-stats.vercel.app/api?name=seungtoctoc" alt="Velog"/></a>
 
   <br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1" alt="Pale Blue Dot"> 
 </div>
