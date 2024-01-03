@@ -31,9 +31,9 @@
   <br>손동작 데이터 수집, 학습, 유사도 검사<br>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=기술스택아이콘&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=&logoColor=white">
 
-  <a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</a> / 2명 / 23.03 ~ 23.11
+  <br><a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</a> / 2명 / 23.03 ~ 23.11
   <br>이미지 처리, 통신, 관리 페이지<br>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
