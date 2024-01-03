@@ -9,6 +9,7 @@
   <br><h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Java"/>
 
 
   <br><h3>Writing</h3>
@@ -28,9 +29,10 @@
   <br>23.03 ~ 23.11 / 2명
   <br>오토인코더, 통신, 관리 페이지
   <br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry pi">
   <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Autoencoder-000000?style=flat-square&logo=&logoColor=white" alt="Autoencoder"/>
 
 
