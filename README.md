@@ -28,15 +28,15 @@
 
   <h3>Projects</h3>
   <b><a href="https://github.com/seungtoctoc/HandMotionPassword">손동작과 얼굴인식을 활용한 문서 보안</b></a>
-  <br>4명 / 23.03 ~ 23.06
+  <br>23.03 ~ 23.06 / 4명
   <br>손동작 데이터 수집, 학습, 유사도 검사
   <br><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=&logoColor=white">
 
   <br><b><a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</b></a>
-  <br>2명 / 23.03 ~ 23.11
-  <br>이미지 처리, 통신, 관리 페이지
+  <br>23.03 ~ 23.11 / 2명
+  <br>오토인코더, 통신, 관리 페이지
   <br><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
@@ -52,8 +52,8 @@
   교내 지식재산 융합 경진대회 대상 / 23.06
 
 
-  <br><br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1">
+  <br><h3>Contact</h3>
+  dltmxor31@naver.com
 
-
-  <br>📧 <b>contact</b> : dltmxor31@naver.com
+  <br><br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1"> 
 </div>
