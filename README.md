@@ -1,5 +1,4 @@
 <div align="center">
-
   <h2>👋 Hello there 👋</h2>
   
   <br>모든 순간 즐기며, 성장하는<br>
@@ -17,30 +16,32 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white"/>
 
-  
-  <br><b>Knowledgeable</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
 
   <br><b>Writing</b><br>
   <a href="https://velog.io/@seungtoctoc">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=seungtoctoc" alt="Velog's GitHub stats"></a>
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
-  <br>
-  
-  <a href="https://solved.ac/dltmxor31">
+  <br><a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
 
 
   <br><b>Projects</b><br>
-  손동작과 얼굴인식을 활용한 문서 보안 / 4명 / 23.03 ~ 23.06<br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/LSTM-000000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+  <a href="https://github.com/seungtoctoc/HandMotionPassword">손동작과 얼굴인식을 활용한 문서 보안</a> / 4명 / 23.03 ~ 23.06
+  <br>손동작 데이터 수집, 학습, 유사도 검사<br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=기술스택아이콘&logoColor=white"><br>
+
+  <a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</a> / 2명 / 23.03 ~ 23.11
+  <br>이미지 처리, 통신, 관리 페이지<br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/googledrive-4285F4?style=flat-square&logo=googledrive&logoColor=white">
+  <img src="https://img.shields.io/badge/Autoencoder-000000?style=flat-square&logo=&logoColor=white"/>
+
+
 
   <br><br>
   📧 <b>contact</b> : dltmxor31@naver.com
