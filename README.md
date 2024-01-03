@@ -50,8 +50,8 @@
   교내 지식재산 융합 경진대회 대상 / 23.06
 
 
-  <br><br><br><br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1">
+  <br><br><img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1">
 
 
-  📧 <b>contact</b> : dltmxor31@naver.com
+  <br>📧 <b>contact</b> : dltmxor31@naver.com
 </div>
