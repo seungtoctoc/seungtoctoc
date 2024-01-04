@@ -6,6 +6,23 @@
   <br>겸손하고 친절한 개발자
   
 
+  <br>
+
+  -----
+
+  <h4>인스턴스 유형에 따른 성능 측정 결과</h4>
+  크롤링 전 시간과 크롤링 후 시간의 차이를 계산했습니다.<br>
+  (소수점 9번째 자리에서 반올림)<br><br>
+  
+  c6in.large, x86_64 : 8.51436973<br>
+  m4.large, x86_64 : 9.42785406<br>
+  r6id.large, x86_64 : 7.87345433<br>
+  t3a.large, x86_64 : 9.80416965<br>
+
+
+
+  -----
+
   <br><h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white" alt="Java"/>
