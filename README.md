@@ -7,7 +7,7 @@
 
   <br><h3>Study</h3>
   신한투자증권 프로 디지털 아카데미<br>
-  23/12 ~ 24/06
+  23.12 ~ 24.06
 
   <br><h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
