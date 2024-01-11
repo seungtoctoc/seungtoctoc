@@ -5,7 +5,7 @@
   <br>즐기며 성장하는,
   <br>겸손하고 친절한 개발자
 
-  <br><h3>Study</h3>
+  <br><h3>Studying</h3>
   신한투자증권 프로 디지털 아카데미<br>
   23.12 ~ 24.06
 
@@ -46,7 +46,7 @@
   dltmxor31@naver.com
 
 
-  <br><br><a href="https://solved.ac/dltmxor31">
+  <br><br><br><a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
 
 
