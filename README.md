@@ -4,7 +4,10 @@
   
   <br>즐기며 성장하는,
   <br>겸손하고 친절한 개발자
-  
+
+  <br><h3>Study</h3>
+  신한투자증권 프로 디지털 아카데미<br>
+  23/12 ~ 24/06
 
   <br><h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
@@ -13,13 +16,6 @@
 
 
   <br><h3>Projects</h3>
-  <b><a href="https://github.com/seungtoctoc/HandMotionPassword">손동작과 얼굴인식을 활용한 문서 보안</b></a>
-  <br>23.03 ~ 23.06 / 4명
-  <br>손동작 데이터 수집, 학습, 유사도 검사
-  <br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow">
-  <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=&logoColor=white" alt="LSTM">
-
   <br><b><a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</b></a>
   <br>23.03 ~ 23.11 / 2명
   <br>오토인코더, 통신, 관리 페이지
@@ -29,6 +25,13 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Autoencoder-000000?style=flat-square&logo=&logoColor=white" alt="Autoencoder"/>
+
+  <b><a href="https://github.com/seungtoctoc/HandMotionPassword">손동작과 얼굴인식을 활용한 문서 보안</b></a>
+  <br>23.03 ~ 23.06 / 4명
+  <br>손동작 데이터 수집, 학습, 유사도 검사
+  <br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow">
+  <img src="https://img.shields.io/badge/LSTM-000000?style=flat-square&logo=&logoColor=white" alt="LSTM">
 
 
   <br><h3>Certificate</h3>
