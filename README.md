@@ -12,9 +12,13 @@
   <br><h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Java"/>
+  <br>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" alt="Github"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
-
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="JavaScript"/>
+  
 
   <br><h3>Projects</h3>
   <b><a href="https://github.com/seungtoctoc/MonitoringBee">꿀벌 모니터링</b></a>
