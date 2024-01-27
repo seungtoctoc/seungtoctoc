@@ -1,10 +1,11 @@
 <div align="center">
-  <h2>Hi there 👋</h2><br><br>
+  <h1>Hi there 👋</h1><br><br>
 
-
+  
   즐기며 성장하는,<br>
   겸손하고 친절한 개발자<br><br><br>
-
+  
+  
 
   <h3>Studying</h3>
   신한투자증권 프로 디지털 아카데미<br>
@@ -21,9 +22,9 @@
 
 
   <br><h3>Projects</h3>
-  <a href="https://github.com/seungtoctoc/MonitoringBee"><h3>꿀벌 모니터링</h3></a>
-  오토인코더, 통신, 관리 페이지<br>
+  <a href="https://github.com/seungtoctoc/MonitoringBee"><strong>꿀벌 모니터링</strong></a><br>
   23.03 ~ 23.11 / 2명<br>
+  오토인코더, 통신, 관리 페이지<br>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry pi"><br>
@@ -33,9 +34,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Flask"/><br><br><br>
   
 
-  <a href="https://github.com/seungtoctoc/HandMotionPassword"><h3>손동작과 얼굴인식을 활용한 문서 보안</h3></a>
+  <a href="https://github.com/seungtoctoc/HandMotionPassword"><strong>손동작과 얼굴인식을 활용한 문서 보안</strong></a><br>
+  23.03 ~ 23.06 / 4명<br>
   손동작 데이터 수집, 학습, 유사도 검사<br>
-  23.03 ~ 23.06 / 4명<br><br>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MediaPipe-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" alt="LSTM"><br><br><br>
