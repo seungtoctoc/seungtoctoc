@@ -1,14 +1,15 @@
 <div align="center">
-  <h1>Hi there 👋</h1><br>
+  <h1>Hi there 👋</h1><br><br>
 
 
   즐기며 성장하는,<br>
-  겸손하고 친절한 개발자<br><br>
+  겸손하고 친절한 개발자<br><br><br>
 
 
   <h3>Studying</h3>
   신한투자증권 프로 디지털 아카데미<br>
-  23.12 ~ 24.06<br><br>
+  23.12 ~ 24.06<br><br><br>
+
   
   <h3>Making Strong..</h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"/>
@@ -54,11 +55,9 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
   </a>
   <a href="https://www.instagram.com/seungtoctoc">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a><br><br><br><br>
 
-
-  <br><br><br>
 
   <a href="https://solved.ac/dltmxor31">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
