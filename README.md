@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋</h1><br><br>
+  <h2>Hi there 👋</h2><br><br>
 
 
   즐기며 성장하는,<br>
