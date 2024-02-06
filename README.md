@@ -53,9 +53,7 @@
 
   <h3>Contact</h3>
   dltmxor31@naver.com<br><br>
-  <a href="https://www.instagram.com/seungtoctoc">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
+ 
   <a href="https://velog.io/@seungtoctoc">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
   </a><br><br><br><br>
