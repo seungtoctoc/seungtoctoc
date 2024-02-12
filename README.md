@@ -17,11 +17,12 @@
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Java"/><br>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" alt="Github"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="JavaScript"/><br><br>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/><br><br>
 
 
-  <br><h3>Projects</h3>
+  <h3>Projects</h3>
   <a href="https://github.com/seungtoctoc/MonitoringBee"><strong>꿀벌 모니터링</strong></a><br>
   23.03 ~ 23.11 / 2명<br>
   오토인코더, 통신, 관리 페이지<br>
