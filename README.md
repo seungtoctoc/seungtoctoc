@@ -23,7 +23,7 @@
 
 
   <h3>Projects</h3>
-  <a href="https://github.com/seungtoctoc/MonitoringBee"><strong>꿀벌 모니터링</strong></a><br>
+  <a href="https://github.com/seungtoctoc/monitoring-bee"><strong>꿀벌 모니터링</strong></a><br>
   23.03 ~ 23.11 / 2명<br>
   오토인코더, 통신, 관리 페이지<br>
 
