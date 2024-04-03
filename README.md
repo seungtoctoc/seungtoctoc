@@ -50,8 +50,7 @@
   <div>
     <h3>Contact</h3>
     <p>dltmxor31@naver.com</p>
-  </div><br><br><br><br><br>
-
+  </div><br><br><br>
   <h2>Projects</h2>
 
   <div>
