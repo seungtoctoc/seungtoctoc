@@ -50,7 +50,13 @@
   <div>
     <h3>Contact</h3>
     <p>dltmxor31@naver.com</p>
-  </div><br><br><br>
+  </div><br><br>
+
+  <div>
+    <a href="https://solved.ac/dltmxor31">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
+  </div><br>
+
   <h2>Projects</h2>
 
   <div>
@@ -124,13 +130,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
     </div>
-  </div><br><br><br><br><br>
-
-  <div>
-    <a href="https://solved.ac/dltmxor31">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31" alt="Solved.ac 프로필"/></a>
-  </div><br>
-
+  </div><br><br><br>
   <div>
     <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1" alt="Pale Blue Dot">
   </div>
