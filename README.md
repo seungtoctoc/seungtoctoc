@@ -111,7 +111,7 @@
       <img src="https://img.shields.io/badge/MediaPipe-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white" alt="LSTM">
     </div>
-  </div><br><br><br>
+  </div><br><br>
 
   <h2>Mini Projects</h2>
 
@@ -130,8 +130,8 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
     </div>
-  </div><br><br><br>
+  </div><br><br><br><br>
   <div>
-    <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/77cdb21e-a19f-43df-8a80-ca68fb5642b1" alt="Pale Blue Dot">
+    <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/2278e1c8-7773-43b7-b2d8-49e2b2e906ec" alt="Pale Blue Dot">
   </div>
 </div>
