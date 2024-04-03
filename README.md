@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hi there 👋</h1><br>
+
   <div>
     <p>
       즐기며 성장하는,<br>
@@ -49,7 +50,7 @@
   <div>
     <h3>Contact</h3>
     <p>dltmxor31@naver.com</p>
-  </div><br>
+  </div><br><br><br><br><br>
 
   <h2>Projects</h2>
 
@@ -124,7 +125,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
     </div>
-  </div><br><br><br><br>
+  </div><br><br><br><br><br>
 
   <div>
     <a href="https://solved.ac/dltmxor31">
