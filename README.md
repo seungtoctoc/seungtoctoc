@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>Hi there 👋</h1>
   <div>
     <p>
       즐기며 성장하는,<br>
