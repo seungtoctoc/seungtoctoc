@@ -31,6 +31,7 @@
   <div>
     <h3>Certificate</h3>
     <p>정보처리기사 / 23.11</p>
+    <p>증권투자권유대행인 / 24.04</p>
   </div><br>
 
   <div>
@@ -117,6 +118,22 @@
 
   <div>
     <strong>
+      <a href="https://github.com/grow-with-us-PDA">
+        별하네 농장
+      </a>
+    </strong>
+    <p>
+      24.04 / 6명<br>
+      메인페이지 날씨, 버튼
+    </p>
+    <div>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Swing-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Swing"/>
+    </div>
+  </div><br><br><br><br>
+
+  <div>
+    <strong>
       <a href="https://github.com/pick-playlist">
         픽플 - 공유, 투표 플레이리스트
       </a>
@@ -131,6 +148,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
     </div>
   </div><br><br><br><br>
+
   <div>
     <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/2278e1c8-7773-43b7-b2d8-49e2b2e906ec" alt="Pale Blue Dot">
   </div>
