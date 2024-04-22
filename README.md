@@ -130,7 +130,7 @@
       <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Swing-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Swing"/>
     </div>
-  </div><br><br><br><br>
+  </div><br><br><br>
 
   <div>
     <strong>
