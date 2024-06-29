@@ -6,7 +6,7 @@
   Republic of Korea
 </p><br/>
 
-<h2> Code with </h2>
+<h2> Code with 🖌️ </h2>
 <div>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
@@ -33,7 +33,7 @@
   </p>
 </div><br/>
 
-<h2> Projects </h2>
+<h2> Projects 🎁 </h2>
 <div>
   <p><a href="https://github.com/PDA-Dontouch"><strong>
     배당주, P2P 금융을 통해 제 2의 월급 만들기<br/>
@@ -105,7 +105,7 @@
   </ul>
 </div><br/><br/>
 
-<h2> Mini Projects </h2>
+<h2> Mini Projects 🛍️ </h2>
 <div>
   <p><a href="https://github.com/grow-with-us-PDA"><strong>
     농작물 키우기<br/>
@@ -137,13 +137,13 @@
   </ul>
 </div><br/><br/>
 
-<h2> Education </h2>
+<h2> Education ✏️ </h2>
 <ul>
   <li>동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)</li>
   <li>신한투자증권 프로디지털 아카데미 수료 (23.12 ~ 24.06)</li>
 </ul><br/><br/>
 
-<h2> Certificate </h2>
+<h2> Certificate 📋 </h2>
 <ul>
   <li>SQLD (24.06)</li>
   <li>증권투자권유대행인 (24.04)</li>
@@ -151,13 +151,13 @@
   <li>토익스피킹 IH (23.10)</li>
 </ul><br/><br/>
 
-<h2> Award </h2>
+<h2> Award 🎉 </h2>
 <ul>
   <li>신한투자증권 프로디지털 아카데미 프로젝트 최우수상 (24.06)</li>
   <li>동국대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)</li>
 </ul><br/><br/>
 
-<h2> Developing </h2>
+<h2> Developing 🤔 </h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com=seungtoctoc/velog-readme-stats)<br/>
 [![Solved.ac
@@ -166,7 +166,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)<br/><br/><br/>
 
 
-<h2> Contact </h2>
+<h2> Contact ✉️ </h2>
 <ul>
   <li>dltmxor31@naver.com</li>
 </ul><br/><br/>
