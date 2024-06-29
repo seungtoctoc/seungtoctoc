@@ -4,7 +4,7 @@
   Fullstack developer from 
   <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/1ba368a1-9f46-4486-b20c-7d6b41e5fd48" width="13"/> 
   Republic of Korea
-</p>
+</p><br/>
 
 <h3> Code with </h3>
 <p>
@@ -125,3 +125,38 @@
   음악, 플레이리스트, 방, 투표 관련 API 구현<br/>
   실시간 유저, 플레이리스트, 투표 상태 업데이트 (Socket.IO)<br/>
 </p><br/>
+
+<h3> Education </h3>
+<p>
+  동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)<br/>
+  신한투자증권 프로디지털 아카데미 수료 (23.12 ~ 24.06)
+</p><br/>
+
+<h3> Certificate </h3>
+<p>
+  SQLD (24.06)<br/>
+  증권투자권유대행인 (24.04)<br/>
+  정보처리기사 (23.11)<br/>
+  토익스피킹 IH (23.10)
+</p><br/>
+
+<h3> Award </h3>
+<p>
+  신한투자증권 프로디지털 아카데미 프로젝트 최우수상 (24.06)<br/>
+  동국대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)
+</p><br/>
+
+<h3> Developing </h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com=seungtoctoc/velog-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)<br/><br/>
+
+
+<h3> Contact </h3>
+<p>
+  dltmxor31@naver.com
+</p><br/>
+
