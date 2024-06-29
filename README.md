@@ -35,12 +35,10 @@
 
 <h3> Projects </h3>
 <div>
-  <p><a href="https://github.com/PDA-Dontouch">
-    <strong>
-      배당주, P2P 금융을 통해 제 2의 월급 만들기<br/>
-      24.05 ~ 24.06 / 6명
-    </strong>
-  </a></p>
+  <p><a href="https://github.com/PDA-Dontouch"><strong>
+    배당주, P2P 금융을 통해 제 2의 월급 만들기<br/>
+    24.05 ~ 24.06 / 6명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
@@ -50,16 +48,14 @@
   </p>
   <p>
     배당주 관련 데이터 수집, API<br/>
-    배당주 조합 알고리즘<br/>
+    배당주 조합 알고리즘
   </p>
 </div><br/>
 <div>
-  <a href="https://github.com/13th-month-lucky">
-    <strong>
-      연말정산 절세 솔루션 및 ETF, 펀드 추천<br/>
-      24.03 / 4명
-    </strong>
-  </a>
+  <p><a href="https://github.com/13th-month-lucky"><strong>
+    연말정산 절세 솔루션 및 ETF, 펀드 추천<br/>
+    24.03 / 4명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="30"/>
@@ -67,16 +63,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
   </p>
-  펀드, 상세 페이지<br/>
-  카카오 로그인, 유저<br/>
+  <p>
+    펀드, 상세 페이지<br/>
+    카카오 로그인, 유저
+  </p>
 </div><br/>
 <div>
-  <a href="https://github.com/seungtoctoc/monitoring-bee">
-    <strong>
-      실시간 꿀벌 모니터링<br/>
-      23.03 ~ 23.11 / 2명
-    </strong>
-  </a>
+  <p><a href="https://github.com/seungtoctoc/monitoring-bee"><strong>
+    실시간 꿀벌 모니터링<br/>
+    23.03 ~ 23.11 / 2명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
@@ -87,47 +83,47 @@
     alt="flask" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30"/>
   </p>
-  꿀벌 검출 (오토인코더)<br/>
-  라즈베리파이-서버 간 통신<br/>
-  모니터링 서버, 페이지 구현<br/>
+  <p>
+    꿀벌 검출 (오토인코더)<br/>
+    라즈베리파이-서버 간 통신<br/>
+    모니터링 서버, 페이지 구현
+  </p>
 </div><br/>
 <div>
-  <a href="https://github.com/seungtoctoc/hand-motion-password">
-    <strong>
-      손동작과 얼굴인식을 활용한 문서 보안<br/>
-      23.03 ~ 23.06 / 4명
-    </strong>
-  </a>
+  <p><a href="https://github.com/seungtoctoc/hand-motion-password"><strong>
+    손동작과 얼굴인식을 활용한 문서 보안<br/>
+    23.03 ~ 23.06 / 4명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
     alt="tensorflow" width="30"/>
   </p>
-  손동작 데이터 추출 (MediaPipe)<br/>
-  학습 및 유사도 검사 (LSTM)<br/>
+  <p>
+    손동작 데이터 추출 (MediaPipe)<br/>
+    학습 및 유사도 검사 (LSTM)
+  </p>
 </div><br/><br/>
 
 <h3> Mini Projects </h3>
 <div>
-  <a href="https://github.com/grow-with-us-PDA">
-    <strong>
-      농작물 키우기<br/>
-      24.04 / 6명
-    </strong>
-  </a>
+  <p><a href="https://github.com/grow-with-us-PDA"><strong>
+    농작물 키우기<br/>
+    24.04 / 6명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
   </p>
-  메인페이지 (Swing)<br/>
-  날씨 관련 모델, 컨트롤러<br/>
+  <p>
+    메인페이지 (Swing)<br/>
+    날씨 관련 모델, 컨트롤러
+  </p>
 </div><br/>
 <div>
-  <a href="https://github.com/pick-playlist">
-    <strong>
-      투표로 함께 만드는 공유 플레이리스트<br/>
-      24.02 / 3명
-    </strong>
-  </a>
+  <p><a href="https://github.com/pick-playlist"><strong>
+    투표로 함께 만드는 공유 플레이리스트<br/>
+    24.02 / 3명
+  </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30"/>
@@ -135,15 +131,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
   </p>
-  음악, 플레이리스트, 방, 투표 관련 API 구현<br/>
-  실시간 유저, 플레이리스트, 투표 상태 업데이트 (Socket.IO)<br/>
+  <p>
+    음악, 플레이리스트, 방, 투표 관련 API 구현<br/>
+    실시간 유저, 플레이리스트, 투표 상태 업데이트 (Socket.IO)
+  </p>
 </div><br/><br/>
 
 <h3> Education </h3>
-<p>
-  동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)<br/>
-  신한투자증권 프로디지털 아카데미 수료 (23.12 ~ 24.06)
-</p><br/>
+<div>
+  <p>동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)</p>
+  <p>신한투자증권 프로디지털 아카데미 수료 (23.12 ~ 24.06)</p>
+</div><br/>
 
 <h3> Certificate </h3>
 <p>
