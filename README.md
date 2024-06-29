@@ -31,10 +31,10 @@
 <h3> Projects </h3>
 <div>
   <a href="https://github.com/PDA-Dontouch">
-    <h4>
+    <strong>
       배당주, P2P 금융을 통해 제 2의 월급 만들기<br/>
       24.05 ~ 24.06 / 6명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
@@ -48,10 +48,10 @@
 </div><br/>
 <div>
   <a href="https://github.com/13th-month-lucky">
-    <h4>
+    <strong>
       연말정산 절세 솔루션 및 ETF, 펀드 추천<br/>
       24.03 / 4명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
@@ -65,10 +65,10 @@
 </div><br/>
 <div>
   <a href="https://github.com/seungtoctoc/monitoring-bee">
-    <h4>
+    <strong>
       실시간 꿀벌 모니터링<br/>
       23.03 ~ 23.11 / 2명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
@@ -86,10 +86,10 @@
 </div><br/>
 <div>
   <a href="https://github.com/seungtoctoc/hand-motion-password">
-    <h4>
+    <strong>
       손동작과 얼굴인식을 활용한 문서 보안<br/>
       23.03 ~ 23.06 / 4명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
@@ -98,15 +98,15 @@
   </p>
   손동작 데이터 추출 (MediaPipe)<br/>
   학습 및 유사도 검사 (LSTM)<br/>
-</div><br/>
+</div><br/><br/>
 
 <h3> Mini Projects </h3>
 <div>
   <a href="https://github.com/grow-with-us-PDA">
-    <h4>
+    <strong>
       농작물 키우기<br/>
       24.04 / 6명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
@@ -116,10 +116,10 @@
 </div><br/>
 <div>
   <a href="https://github.com/pick-playlist">
-    <h4>
+    <strong>
       투표로 함께 만드는 공유 플레이리스트<br/>
       24.02 / 3명
-    </h4>
+    </strong>
   </a>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="30"/>
@@ -130,7 +130,7 @@
   </p>
   음악, 플레이리스트, 방, 투표 관련 API 구현<br/>
   실시간 유저, 플레이리스트, 투표 상태 업데이트 (Socket.IO)<br/>
-</div><br/>
+</div><br/><br/>
 
 <h3> Education </h3>
 <p>
@@ -154,9 +154,9 @@
 
 <h3> Developing </h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com=seungtoctoc/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://github.com=seungtoctoc/velog-readme-stats)<br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)<br/><br/>
 
