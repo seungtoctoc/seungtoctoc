@@ -1,10 +1,11 @@
 <h1> Hi, it's me again 👋 </h1>
 
-<p>
-  Fullstack developer from 
-  <img src="https://github.com/seungtoctoc/seungtoctoc/assets/102455571/1ba368a1-9f46-4486-b20c-7d6b41e5fd48" width="13"/> 
-  Republic of Korea
-</p><br/>
+<div>
+  <p>
+    즐기며 성장하는, <br/>
+    겸손하고 친절한 개발자 
+  </p>
+</div><br/>
 
 <h2> Code with 🖌️ </h2>
 <div>
