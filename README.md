@@ -89,37 +89,9 @@
     <li>라즈베리파이-서버 간 통신</li>
     <li>모니터링 서버, 페이지 구현</li>
   </ul>
-</div><br/>
-<div>
-  <p><a href="https://github.com/seungtoctoc/hand-motion-password"><strong>
-    손동작과 얼굴인식을 활용한 문서 보안<br/>
-    23.03 ~ 23.06 / 4명
-  </strong></a></p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-    alt="tensorflow" width="30"/>
-  </p>
-  <ul>
-    <li>손동작 데이터 추출 (MediaPipe)</li>
-    <li>학습 및 유사도 검사 (LSTM)</li>
-  </ul>
 </div><br/><br/>
 
 <h2> Mini Projects 🛍️ </h2>
-<div>
-  <p><a href="https://github.com/grow-with-us-PDA"><strong>
-    농작물 키우기<br/>
-    24.04 / 6명
-  </strong></a></p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
-  </p>
-  <ul>
-    <li>메인페이지 (Swing)</li>
-    <li>날씨 관련 모델, 컨트롤러</li>
-  </ul>
-</div><br/>
 <div>
   <p><a href="https://github.com/pick-playlist"><strong>
     투표로 함께 만드는 공유 플레이리스트<br/>
