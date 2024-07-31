@@ -48,8 +48,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30"/>
   </p>
   <ul>
-    <li>배당주 관련 데이터 수집, API</li>
-    <li>배당주 조합 알고리즘</li>
+    <li>약 2600개 종목의 19가지 지표에 대한 z점수를 계산하여 조합 추천 알고리즘에 활용함</li>
+    <li>stock 테이블에 최근 종가와 배당월을 반정규화하여 조합 추천 알고리즘 성능을 높임 (9초 -> 2초)</li>
+    <li>제너릭 타입의 페이징 함수를 구현하고 함수를 최대한 분리하여 가독성과 재사용성을 높임</li>
+    <li>트리거를 활용하여 배당 확정일과 예상일을 효과적으로 관리하고 데이터 정확성을 높임</li>
   </ul>
 </div><br/>
 <div>
@@ -65,8 +67,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
   </p>
   <ul>
-    <li>펀드, 상세 페이지</li>
-    <li>카카오 로그인, 유저</li>
+    <li>Redux로 유저 정보, 방문 기록을 관리하여 데이터 일관성을 높임</li>
+    <li>API 호출 코드를 분리하여 유지보수성을 높임</li>
+    <li>탭에 따라 변경되는 컴포넌트들을 배열로 관리하여 유지보수성을 높임</li>
   </ul>
 </div><br/>
 <div>
@@ -85,9 +88,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30"/>
   </p>
   <ul>
-    <li>꿀벌 검출 (오토인코더)</li>
-    <li>라즈베리파이-서버 간 통신</li>
-    <li>모니터링 서버, 페이지 구현</li>
+    <li>구글 드라이브 API를 활용하여 라즈베리파이와 서버 간 이미지를 전송 시스템을 구축함으로써, 데이터 교환의 효율성을 높임</li>
+    <li>인코더와 디코더의 레이어 개수, 에포크, 배치 사이즈를 조정하여 오토인코더 모델의 꿀벌 탐지 성능을 높임</li>
+    <li>Flask로 라즈베리파이가 업로드한 이미지와 정보를 관리할 수 있는 서버 페이지를 구현하여 데이터 접근성과 관리 효율성을 높임</li>
   </ul>
 </div><br/><br/>
 
@@ -105,8 +108,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
   </p>
   <ul>
-    <li>음악, 플레이리스트, 방, 투표 관련 API 구현</li>
-    <li>실시간 유저, 플레이리스트, 투표 상태 업데이트 (Socket.IO)</li>
+    <li>4자리 숫자 코드로 방에 접속하는 방식을 제안하고 구현하여 사용자의 접근성을 높임</li>
+    <li>Socket.io를 통해 접속한 방의 정보를 항상 최신으로 유지하여 사용자 간의 상호작용을 원활하게 함</li>
   </ul>
 </div><br/><br/>
 
