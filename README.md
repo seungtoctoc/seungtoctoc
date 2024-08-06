@@ -46,6 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="mariadb" width="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
     <li>약 2600개 종목의 19가지 지표에 대한 z점수를 계산하여 조합 추천 알고리즘에 활용함</li>
@@ -65,6 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
     <li>Redux로 유저 정보, 방문 기록을 관리하여 데이터 일관성을 높임</li>
@@ -106,6 +108,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socketio" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
     <li>4자리 숫자 코드로 방에 접속하는 방식을 제안하고 구현하여 사용자의 접근성을 높임</li>
