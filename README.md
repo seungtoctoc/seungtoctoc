@@ -49,7 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
-    <li>약 2600개 종목의 19가지 지표에 대한 z점수를 계산하여 조합 추천 알고리즘에 활용함</li>
+    <li>약 2600개 종목의 19가지 지표에 대한 z점수를 산출하고, 이를 활용해 사용자 성향에 맞는 배당주 조합을 추천함</li>
     <li>stock 테이블에 최근 종가와 배당월을 반정규화하여 조합 추천 알고리즘 성능을 높임 (9초 -> 2초)</li>
     <li>제너릭 타입의 페이징 함수를 구현하고 함수를 최대한 분리하여 가독성과 재사용성을 높임</li>
     <li>트리거를 활용하여 배당 확정일과 예상일을 효과적으로 관리하고 데이터 정확성을 높임</li>
@@ -90,9 +90,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30"/>
   </p>
   <ul>
-    <li>구글 드라이브 API를 활용하여 라즈베리파이와 서버 간 이미지를 전송 시스템을 구축함으로써, 데이터 교환의 효율성을 높임</li>
-    <li>인코더와 디코더의 레이어 개수, 에포크, 배치 사이즈를 조정하여 오토인코더 모델의 꿀벌 탐지 성능을 높임</li>
-    <li>Flask로 라즈베리파이가 업로드한 이미지와 정보를 관리할 수 있는 서버 페이지를 구현하여 데이터 접근성과 관리 효율성을 높임</li>
+    <li>구글 드라이브 API를 활용하여 라즈베리파이와 서버 간 통신 시스템을 구축함으로써, 데이터 교환의 안정성과 효율성을 높임</li>
+    <li>레이어 개수, 손실 함수, 활성화 함수, 학습률을 조정하며 오토인코더 모델의 꿀벌 탐지 성능을 개선함</li>
+    <li>Flask로 이미지와 정보를 관리할 수 있는 서버 페이지를 구현하여 데이터 접근성과 관리 효율성을 높임</li>
   </ul>
 </div><br/><br/>
 
