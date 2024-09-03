@@ -149,4 +149,5 @@
 <h2> Contact ✉️ </h2>
 <ul>
   <li>dltmxor31@naver.com</li>
+  <li><a href="https://github.com/seungtoctoc">github link</a></li>
 </ul><br/><br/>
