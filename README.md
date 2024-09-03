@@ -139,12 +139,11 @@
 
 <h2> Developing 🤔 </h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seungtoctoc)](https://velog.io/@seungtoctoc/posts)<br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=seungtoctoc)](https://velog.io/@seungtoctoc/posts)<br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)<br/>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)<br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)<br/><br/><br/>
-
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)<br/><br/><br/>
 
 <h2> Contact ✉️ </h2>
 <ul>
