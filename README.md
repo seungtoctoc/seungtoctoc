@@ -53,8 +53,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
-    <li>Z 점수 개념을 적용해, 맞춤형 배당주 추천 조합의 정확성을 높임 </li>
-    <li>트리거를 활용해 배당 확정일과 예상일을 관리해, 데이터 관리 효율성을 높임</li>
+    <li>Z 점수 개념을 적용해, 맞춤형 배당주 조합 추천의 정확성을 높임 </li>
+    <li>트리거로 배당 확정일과 예상일을 관리해, 데이터 관리 효율성을 높임</li>
     <li>MSA 구조를 도입해, 시스템의 안정성과 확장성을 높임</li>
     <li>프로젝트 최우수상을 수상함</li>
   </ul>
