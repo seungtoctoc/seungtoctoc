@@ -15,7 +15,7 @@
     기존에 필요하다고 느꼈던 '배당주 조합 추천', '투표로 만드는 공유 플레이리스트'와 같은 주제를 제안하고 프로젝트를 주도한 경험이 있습니다.
   </p>
 </div>
-<br/>
+<br/><br/>
 
 
 <h2> Code with 🖌️ </h2>
@@ -41,7 +41,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30"/>
   </p>
 </div>
-<br/>
+<br/><br/>
 
 
 <h2> Projects 🎁 </h2>
@@ -106,7 +106,7 @@
     <li>Flask를 활용한 관리자 페이지를 구현해, 데이터 관리와 운영을 용이하게 함</li>
   </ul>
 </div>
-<br/><br/>
+<br/><br/><br/>
 
 
 <h2> Mini Projects 🛍️ </h2>
@@ -128,7 +128,7 @@
     <li>Socket.io를 통해 접속한 방의 정보를 항상 최신으로 유지해, 사용자 간 상호작용을 원활하게 함</li>
   </ul>
 </div>
-<br/><br/>
+<br/><br/><br/>
 
 
 <h2> Education ✏️ </h2>
@@ -138,7 +138,7 @@
   <li>동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)</li>
   <li>동국대학교 소프트웨어 구조 연구실 학부 연구생 (23.03 ~ 23.11)</li>
 </ul>
-<br/><br/>
+<br/><br/><br/>
 
 
 <h2> Certificate 📋 </h2>
@@ -149,7 +149,7 @@
   <li>정보처리기사 (23.11)</li>
   <li>토익스피킹 IH (23.10)</li>
 </ul>
-<br/><br/>
+<br/><br/><br/>
 
 
 <h2> Award 🎉 </h2>
@@ -158,7 +158,7 @@
   <li>신한투자증권 프로 디지털 아카데미 최종 프로젝트 최우수상 (24.06)</li>
   <li>동국대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)</li>
 </ul>
-<br/><br/>
+<br/><br/><br/>
 
 
 <h2> Developing 🤔 </h2>
@@ -168,7 +168,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h2> Contact ✉️ </h2>
 
@@ -176,4 +176,3 @@
   <li>dltmxor31@naver.com</li>
   <li><a href="https://github.com/seungtoctoc">github link</a></li>
 </ul>
-<br/><br/>
