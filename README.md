@@ -1,4 +1,4 @@
-<h3> 안녕하세요, 이승택입니다 👋 </h3>
+<h3> 안녕하세요 👋 </h3>
 <div>
   <p>
     <strong>안정적이고 효율적인 백엔드 개발</strong>에 관심이 있습니다.
@@ -135,8 +135,8 @@
 
 <ul>
   <li>신한투자증권 프로 디지털 아카데미 수료 (23.12 ~ 24.06)</li>
-  <li>동국대학교 정보통신공학과 졸업 (18.03 ~ 24.02)</li>
-  <li>동국대학교 소프트웨어 구조 연구실 학부 연구생 (23.03 ~ 23.11)</li>
+  <li>OO대학교 정보통신공학과 졸업 (18.03 ~ 24.02)</li>
+  <li>OO대학교 소프트웨어 구조 연구실 학부 연구생 (23.03 ~ 23.11)</li>
 </ul>
 <br/><br/><br/>
 
@@ -156,7 +156,7 @@
 
 <ul>
   <li>신한투자증권 프로 디지털 아카데미 최종 프로젝트 최우수상 (24.06)</li>
-  <li>동국대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)</li>
+  <li>OO대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)</li>
 </ul>
 <br/><br/><br/>
 
@@ -170,9 +170,9 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)
 <br/><br/><br/><br/>
 
-<h2> Contact ✉️ </h2>
+<!-- <h2> Contact ✉️ </h2>
 
 <ul>
   <li>dltmxor31@naver.com</li>
   <li><a href="https://github.com/seungtoctoc">github link</a></li>
-</ul>
+</ul> -->
