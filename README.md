@@ -17,7 +17,6 @@
 </div>
 <br/><br/>
 
-
 <h2> Code with 🖌️ </h2>
 
 <div>
@@ -42,7 +41,6 @@
   </p>
 </div>
 <br/><br/>
-
 
 <h2> Projects 🎁 </h2>
 
@@ -88,7 +86,7 @@
 <div>
   <p><a href="https://github.com/seungtoctoc/monitoring-bee"><strong>
     실시간 꿀벌 모니터링<br/>
-    23.03 ~ 23.11 / 2명<br/>
+    23.03 ~ 23.12 / 2명<br/>
     통신 시스템 구축 및 오토 인코더 모델 담당
   </strong></a></p>
   <p>
@@ -107,7 +105,6 @@
   </ul>
 </div>
 <br/><br/><br/>
-
 
 <h2> Mini Projects 🛍️ </h2>
 
@@ -130,7 +127,6 @@
 </div>
 <br/><br/><br/>
 
-
 <h2> Education ✏️ </h2>
 
 <ul>
@@ -139,7 +135,6 @@
   <li>OO대학교 소프트웨어 구조 연구실 학부 연구생 (23.03 ~ 23.11)</li>
 </ul>
 <br/><br/><br/>
-
 
 <h2> Certificate 📋 </h2>
 
@@ -151,7 +146,6 @@
 </ul>
 <br/><br/><br/>
 
-
 <h2> Award 🎉 </h2>
 
 <ul>
@@ -159,7 +153,6 @@
   <li>OO대학교 정보통신공학 지식재산 융합 경진대회 대상 (23.06)</li>
 </ul>
 <br/><br/><br/>
-
 
 <h2> Developing 🤔 </h2>
 
