@@ -125,6 +125,9 @@
   </strong></a></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
   </p>
   <ul>
     <a href="https://picksiminvest.netlify.app"><li>배포 사이트 (picksiminvest.netlify.app)</li></a>
