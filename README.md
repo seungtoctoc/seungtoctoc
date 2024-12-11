@@ -25,12 +25,17 @@
 
 <div>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="mariadb" width="30"/>
   </p>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="javascript" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
+  </p>
+  <p>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="mariadb" width="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
   </p>
   <p>
@@ -38,8 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30"/>
   </p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
-  </p>
+    </p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30"/>
   </p>
@@ -113,6 +117,21 @@
 
 
 <h2> Mini Projects 🛍️ </h2>
+
+<div>
+  <p><a href="https://github.com/seungtoctoc/investment-simulator-client"><strong>
+    실제 데이터 기반 적립식 투자 시뮬레이션<br/>
+    24.12 / 1명<br/>
+  </strong></a></p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
+  </p>
+  <ul>
+    <a href="https://picksiminvest.netlify.app"><li>배포 사이트 (picksiminvest.netlify.app)</li></a>
+    <li>환율 정보를 캐싱하여, 시뮬레이션 수행 시 반복되는 요청을 최소화하고 처리 속도를 개선함</li>
+  </ul>
+</div>
+<br/><br/><br/>
 
 <div>
   <p><a href="https://github.com/pick-playlist"><strong>
