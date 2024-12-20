@@ -3,20 +3,6 @@
   <p>
     Full-stack Developer
   </p>
-  <!-- <p>
-    <strong>안정적이고 효율적인 백엔드 개발</strong>에 관심이 있습니다.
-  </p>
-  <p>
-    <strong>사용자에게 행복을 전하는 개발자</strong>가 되겠습니다.
-  </p>
-  <p>
-    <strong>함께 성장하는 경험을 소중히 여깁니다.</strong><br/>
-    알고리즘 스터디를 주도하고, 참여한 모두가 '컴퓨터 알고리즘'과목에서 A 이상의 성적을 받은 경험이 있습니다.
-  </p>
-  <p>
-    <strong>필요하다고 생각되는 것들은 만들어 봅니다.</strong><br/>
-    기존에 필요하다고 느꼈던 '배당주 조합 추천', '투표로 만드는 공유 플레이리스트'와 같은 주제를 제안하고 프로젝트를 주도한 경험이 있습니다.
-  </p> -->
 </div>
 <br/><br/>
 
@@ -191,13 +177,13 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=seungtoctoc)](https://velog.io/@seungtoctoc/posts)<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dltmxor31)](https://solved.ac/dltmxor31)<br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungtoctoc)](https://solved.ac/seungtoctoc) -->
 <br/><br/><br/><br/>
 
 <h2> Contact ✉️ </h2>
 
 <ul>
   <li>dltmxor31@naver.com</li>
-  <li><a href="https://github.com/seungtoctoc">github link</a></li>
+  <!-- <li><a href="https://github.com/seungtoctoc">github link</a></li> -->
 </ul>
